@@ -81,7 +81,6 @@ public class DvdLibraryInMemIMPL implements DvdLibrary {
         releaseMatch=(releaseCrit==null||releaseCrit.isEmpty())
                 ?truePred
                 :(c)->c.getReleaseDate().equals(releaseCrit);
-        
         return dvdMap.values().stream()
                 .filter(titleMatch
                         .and(imdbMatch)

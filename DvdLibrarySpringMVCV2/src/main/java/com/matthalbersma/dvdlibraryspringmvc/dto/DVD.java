@@ -4,19 +4,39 @@
  * and open the template in the editor.
  */
 package com.matthalbersma.dvdlibraryspringmvc.dto;
+//import javax.persistence.Entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
 
 /**
  *
  * @author apprentice
  */
+@Entity
+@Table(name="Dvd")
 public class DVD {
+    @Id
+    @GeneratedValue
+    @Column(name="id")
     private int id;
+    @Column(name="imdbID")
     private String imdbID;
+    @Column(name="title")
     private String title;
+    @Column(name="releaseDate")
     private String releaseDate;
+    @Column(name="mpaaRating")
     private String mpaaRating;
+    @Column(name="director")
     private String director;
+    @Column(name="userRating")
     private String userRating;
+    @Column(name="coverURL")
     private String coverURL;
 
     

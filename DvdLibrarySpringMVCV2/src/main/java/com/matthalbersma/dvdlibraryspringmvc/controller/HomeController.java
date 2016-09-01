@@ -30,7 +30,7 @@ public class HomeController {
 
     private DvdLibrary dao;
 
-    @Inject
+@Inject 
     public HomeController(DvdLibrary dao) {
         this.dao = dao;
     }
