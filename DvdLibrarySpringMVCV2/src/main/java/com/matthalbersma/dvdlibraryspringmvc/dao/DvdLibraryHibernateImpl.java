@@ -13,6 +13,7 @@ import javax.inject.Inject;
 import org.hibernate.Criteria;
 import org.hibernate.SessionFactory;
 import org.hibernate.classic.Session;
+import org.hibernate.criterion.MatchMode;
 import org.hibernate.criterion.Restrictions;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Propagation;
@@ -79,13 +80,13 @@ public class DvdLibraryHibernateImpl implements DvdLibrary {
             cr.add(Restrictions.like("title", "%" + titleCrit + "%"));
         }
         if (imdbCrit!=null&&!imdbCrit.isEmpty()) {
-            cr.add(Restrictions.like("imdbID", "%" + imdbCrit + "%"));
+            cr.add(Restrictions.like("imdbID", imdbCrit, MatchMode.EXACT));
         }
         if (releaseCrit!=null&&!releaseCrit.isEmpty()) {
             cr.add(Restrictions.like("releaseDate", "%" + releaseCrit + "%"));
         }
         if (mpaaCrit!=null&&!mpaaCrit.isEmpty()) {
-            cr.add(Restrictions.like("mpaaRating", "%" + mpaaCrit + "%"));
+            cr.add(Restrictions.like("mpaaRating", mpaaCrit, MatchMode.EXACT));
         }
         if (direcCrit!=null&&!direcCrit.isEmpty()) {
             cr.add(Restrictions.like("director", "%" + direcCrit + "%"));
