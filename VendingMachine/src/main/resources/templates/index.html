@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+    <head>
+        <title>Vending Machine</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.min.css" rel="stylesheet"></link>
+            <link rel="stylesheet" href="css/vend.css"></link>
+    </head>
+    <body>
+        <div class="container">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators" id="indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <div id="image">
+                        </div>
+                        <div id="text">
+                        </div>
+                    </div>
+
+                    <div class="item">
+
+                        <div id="image1"></div>
+                        <div id="text1">
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div id="image2">
+                        </div>
+                        <div id="text2">
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div id="image3">
+                        </div>
+                        <div id="text3">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+                    </div>
+
+            <div class="navbar navbar-inverse navbar-fixed-bottom">
+                <a class="btn btn-secondary" href="login">Log In</a>
+                <a sec:authorize-url="/administrate" class="btn btn-secondary" href="administrate">Administrate</a>
+                <a sec:authorize-url="/administrate" class="btn btn-secondary" href="logout">Log Out</a>
+                <span sec:authentication="name"></span>
+            </div>
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+         <script src="js/itemList.js"></script>
+    </body>
+</html>

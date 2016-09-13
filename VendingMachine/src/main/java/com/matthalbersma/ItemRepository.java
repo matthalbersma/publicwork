@@ -5,6 +5,7 @@
  */
 package com.matthalbersma;
 
+import com.matthalbersma.model.Item;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
@@ -15,7 +16,7 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
 @RepositoryRestResource(collectionResourceRel = "items", path = "items")
 
-public interface ItemRepository extends MongoRepository<Item, Integer> {
+public interface ItemRepository extends MongoRepository<Item, String> {
 
  
 
