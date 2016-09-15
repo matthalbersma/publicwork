@@ -8,13 +8,31 @@ and open the template in the editor.
     <head>
         <title>Vending Machine</title>
         <!-- Bootstrap core CSS -->
-        <link href="../css/bootstrap.min.css" rel="stylesheet"></link>
+        <link href="css/bootstrap.min.css" rel="stylesheet"></link>
     </head>
     <body>
-        <div>TODO write content</div>
-        <a class="btn btn-secondary" href="/">Home</a>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-        <script src="../js/bootstrap.min.js"></script>
-        <script src="../js/itemList.js"></script>
+        <div class="container">
+            <h2>Welcome to the Administration Page.</h2>
+            <table id="itemTable" class="table table-hover">
+                <tr>
+                    <th width="35%">Product</th>
+                    <th width="20%">Price</th>
+                    <th width="15%">Quantity</th>
+                    <th width="15%"></th>
+                </tr>
+                <tbody id="putHere"></tbody>
+            </table>
+        </div>
+        <div class="navbar navbar-inverse navbar-fixed-bottom">
+            <a class="btn btn-secondary" href="login">Log In</a>
+            <a sec:authorize-url="/administrate" class="btn btn-secondary" href="administrate">Administrate</a>
+            <a sec:authorize-url="/administrate" class="btn btn-secondary" href="logout">Log Out</a>
+            <a class="btn btn-secondary" href="/">Home</a>
+            <span sec:authentication="name"></span>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+            <script src="js/Administrate.js"></script>
+        </div>
+        <div th:include="editModalFragment"></div>
     </body>
 </html>
