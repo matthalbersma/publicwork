@@ -1,0 +1,33 @@
+body {
+  background-image: url("background.jpg");
+    font-family: "Reenie Beanie", cursive;
+    color: aliceblue;
+    font-size: x-large;
+}
+.centered {
+    text-align: center;
+}
+.col-md-12{
+    padding-top: 15px;
+}
+#display {
+    font-size: xx-large;
+}
+#jpg {
+    height: 200px;
+    width: 200px;
+
+}
+#wrongs {
+    font-size: xx-large;
+}
+
+.btn {
+    background-color: firebrick;
+    font-size: x-large;
+}
+#guess {
+    background-color: firebrick;
+    font-size: x-large;
+    
+}
