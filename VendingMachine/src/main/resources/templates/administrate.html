@@ -9,6 +9,9 @@ and open the template in the editor.
         <title>Vending Machine</title>
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet"></link>
+        <meta name="_csrf" th:content="${_csrf.token}"/>
+        <!-- default header name is X-CSRF-TOKEN -->
+        <meta name="_csrf_header" th:content="${_csrf.headerName}"/>
     </head>
     <body>
         <div class="container">

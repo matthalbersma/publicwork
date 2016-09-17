@@ -5,14 +5,25 @@
  */
 package com.matthalbersma.model;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 /**
- *
  * @author walter
  */
+@Document(collection = "users")
 public class Client {
-    private  String username;
-    private  String password;
-    private  String roles;
+    @Id
+    private String id;
+    private String username;
+    private String password;
+    private String roles;
+
+    public Client(String username, String password, String roles) {
+        this.setUsername(username);
+        this.setPassword(password);
+        this.setRoles(roles);
+    }
 
     /**
      * @return the username
@@ -57,4 +68,11 @@ public class Client {
     }
 
 
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 }

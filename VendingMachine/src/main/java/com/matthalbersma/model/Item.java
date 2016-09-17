@@ -8,7 +8,6 @@ package com.matthalbersma.model;
 import org.springframework.data.annotation.Id;
 
 /**
- *
  * @author walter
  */
 public class Item {
@@ -73,8 +72,6 @@ public class Item {
     public void setStock(int stock) {
         this.stock = stock;
     }
-    
-    
-    
-    
+
+
 }
