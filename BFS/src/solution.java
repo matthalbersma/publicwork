@@ -1,37 +1,31 @@
-import com.sun.javafx.scene.control.SizeLimitedList;
-import com.sun.jdi.IntegerType;
-
+import java.io.*;
 import java.util.*;
 
-import static javafx.scene.input.KeyCode.Q;
+public class solution {
 
-/**
- * Created by walter on 9/15/16.
- */
-public class BFSstab {
     public static void main(String[] args) {
-
-        int nodes = 10;
-        int edges = 6;
-        int start = 3;
-        boolean adjMatrix[][] = new boolean[nodes + 1][nodes + 1];
-        adjMatrix[3][1] = true;
-        adjMatrix[1][3] = true;
-        adjMatrix[10][1] = true;
-        adjMatrix[1][10] = true;
-        adjMatrix[1][8] = true;
-        adjMatrix[8][1] = true;
-        adjMatrix[5][2] = true;
-        adjMatrix[2][5] = true;
-        for (int i = 1; i <= nodes; i++) {
-            if (i!=start) {
-                System.out.print(bfs(adjMatrix, start, i));
-                System.out.print(" ");
+        Scanner sc=new Scanner(System.in);
+        int searches=sc.nextInt();
+        for (int a=0; a<searches;a++){
+            int nodes=sc.nextInt();
+            int edges=sc.nextInt();
+            boolean adjMatrix[][] = new boolean[nodes + 1][nodes + 1];
+            for (int b=0; b<edges; b++){
+                int c=sc.nextInt();
+                int d=sc.nextInt();
+                adjMatrix[c][d]=true;
+                adjMatrix[d][c]=true;
             }
-        }
-
-
+            int start=sc.nextInt();
+            for (int i = 1; i <= nodes; i++) {
+                if (i!=start) {
+                    System.out.print(bfs(adjMatrix, start, i));
+                    System.out.print(" ");
+                }
+            }System.out.println("");
+        }sc.close();
     }
+
     static int bfs (boolean [] [] adjMatrix, int start, int end){
         Queue<Integer> Q=new LinkedList<Integer>();
         Map<Integer, Integer> children=new HashMap<>();
@@ -52,24 +46,16 @@ public class BFSstab {
                     while(children.get(element)!=null){
                         counter++;
                         element=children.get(element);
-
                     } return counter*6;
                 }
-
                 for (i=1;i<=nodes; i++){
                     if ((adjMatrix[element][i])&&!visited[i]){
                         Q.add(i);
                         visited[i]=true;
                         children.put(i, element);
-                        }
                     }
-
                 }
-
-            }return -1;
-
             }
-        }
-
-
-
+        }return -1;
+    }
+}

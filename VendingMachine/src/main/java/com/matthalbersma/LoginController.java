@@ -5,14 +5,13 @@
  */
 package com.matthalbersma;
 
+import com.matthalbersma.model.Change;
+import com.matthalbersma.model.InputDollars;
 import com.matthalbersma.model.Item;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
@@ -23,6 +22,7 @@ import javax.validation.Valid;
 public class LoginController {
     @Autowired
     private ItemRepository repo;
+
 
     @RequestMapping(value = "/administrate")
 //    @ResponseBody
@@ -45,6 +45,22 @@ public class LoginController {
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void updateItem(@Valid @RequestBody Item item) {
         repo.save(item);
+    }
+
+    @RequestMapping(value="vend/{id}", method=RequestMethod.POST)
+    @ResponseBody
+    @ResponseStatus(HttpStatus.CREATED)
+
+    public String returnChange(@PathVariable("id") String id, @Valid  @RequestBody InputDollars dollars){
+        Item temp=repo.findOne(id);
+        System.out.println(temp);
+        temp.setStock(temp.getStock()-1);
+        Double changeIt=dollars.getDollars()-temp.getCost();
+        repo.save(temp);
+
+        return new Change((int) (changeIt*100)).toString();
+       // return "jimmy";
+
     }
 
 }

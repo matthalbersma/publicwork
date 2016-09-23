@@ -1,12 +1,11 @@
-var wordList = ["existence", "marmalade", "orthography", "egalitarian", "utilitarian", "felicitous","yankee","ossify", "transubstantiation", "nair", "attenuate",
-"crackerjack", "ambivalence", "litigious", "extirpate", "accoutrement", "inchoate", "vernacular", "pervicacious", "oxymoron", "arduous", "antithesis", "macguffin", "gratuitous", "exfoliate", "reticence", "nescience"];
+
 
 var pick=0;
 var word;
- var picked = new Array();
-    var spaces = new Array();
-    var wrong = new Array();
-    var theSpaces="";
+var picked = new Array();
+var spaces = new Array();
+var wrong = new Array();
+var theSpaces="";
 var choice="";
 var wrongCount=0;
 
@@ -76,13 +75,13 @@ function guess() {
         document.getElementById("playagain").style.visibility="visible";
     }
 else if(wrongCount==6){
-    document.getElementById("wrongs").innerHTML="You Lose!";
+    document.getElementById("wrongs").innerHTML="You Lose!<br>The word wos: "+word;
     document.getElementById("playagain").style.visibility="visible";
     }
 }
 
 function reset() {
-    document.getElementById("start").style.visibility="visible";
+    
     document.getElementById("guess1").style.visibility="hidden";
     document.getElementById("guess2").style.visibility="hidden";
     document.getElementById("guess3").style.visibility="hidden";
@@ -99,5 +98,5 @@ function reset() {
     wrongCount=0;
     document.getElementById("jpg").src="HMpic"+(wrongCount+1)+".png";
     document.getElementById("wrongs").innerHTML="";
-    
+    wordPick();
 }
