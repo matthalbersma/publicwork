@@ -9,13 +9,14 @@ and open the template in the editor.
         <title>Vending Machine</title>
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet"></link>
+        <link rel="stylesheet" href="css/vend.css"></link>
         <meta name="_csrf" th:content="${_csrf.token}"/>
         <!-- default header name is X-CSRF-TOKEN -->
         <meta name="_csrf_header" th:content="${_csrf.headerName}"/>
     </head>
-    <body>
+    <body id="administrate">
         <div class="container">
-            <h2>Welcome to the Administration Page.</h2>
+            <h2><b>Welcome to the Administration Page.</b></h2>
             <table id="itemTable" class="table table-hover">
                 <tr>
                     <th width="35%">Product</th>

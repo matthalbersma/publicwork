@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Abel);
-body {
+#index {
     background-image:url("../images/vintage.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ border-style: solid;
 border-width: 5px;
 text-align: center;
 width:300px;
-height: 400px;
+height: 100px;
 margin-top: 10%;
 margin-right: 200px;
 font-family: 'Abel', sans-serif;
@@ -54,4 +54,30 @@ color: greenyellow;
 float: right;
 background-color: green;
 font-size: 30px;
+}
+#purchaseBody, #purchaseHeader {
+    color: greenyellow;
+    background-color:green;
+    font-family: 'Abel', sans-serif;
+    border-style: solid;
+    border-width: 5px;
+}
+#loginForm{
+    margin-left: 10%;
+    margin-top: 15%;
+    color: sienna;
+    font-family: 'Abel', sans-serif;
+    font-size: x-large;
+
+}
+#administrate{
+    color: sienna;
+    font-family: 'Abel', sans-serif;
+    font-size: x-large;
+
+
+}
+#purchaseModal{
+    top: 5%;
+    left: 48%;
 }

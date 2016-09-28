@@ -13,7 +13,7 @@ $(document).ready(function(){
             type: 'GET',
             url: itemId
         }).success(function (item) {
-            modal.find('#item-id').text(item.id);
+            modal.find('#item-id').text(item.name);
             modal.find('#edit-itemname').val(item.name);
             modal.find('#edit-price').val(item.cost);
             modal.find('#edit-stock').val(item.stock);
