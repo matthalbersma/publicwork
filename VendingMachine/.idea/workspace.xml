@@ -2,27 +2,142 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="219ee60f-b482-4eec-b9ad-1d45f7ae82d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_4_0_RELEASE.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../BFS/src/BFS.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../DvdLibrarySpringMVCV2/target/classes/.netbeans_automatic_build" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../DvdLibrarySpringMVCV2/target/test-classes/.netbeans_automatic_build" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../FlooringMaster/target/classes/.netbeans_automatic_build" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../FlooringMaster/target/test-classes/.netbeans_automatic_build" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.class" afterPath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.class" afterPath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/model/Post.class" afterPath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/model/Post.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-security.xml" afterPath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-security.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VendingMachine.iml" afterPath="$PROJECT_DIR$/VendingMachine.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/matthalbersma/WebSecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/matthalbersma/WebSecurityConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/css/vend.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/vend.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/js/Administrate.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/Administrate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/administrate.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/administrate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/purchaseModalFragment.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/purchaseModalFragment.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/nb-configuration.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/controller/HomeController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/controller/LogInController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/UserDaoDbImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Hashtags.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Post.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Search.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/resources/spring-persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/cbpAnimatedHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/cbpAnimatedHeader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/META-INF/context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-security.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/teamDad.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.full.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.full.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/datetimepicker.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/doc.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/3.1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/tests/input_in_container_fixed_to_bottom_of_viewport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/tests/input_in_container_fixed_to_top_of_viewport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/HELP-US-OUT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/img/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/jquery-2.2.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/jquery-2.2.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDad.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDadAdmin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDadMarketing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamdadcontent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/adminPost.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/editModalFragment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/home.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/test/java/com/mycompany/teamdadcapstoneproject/dao/DaoInterfaceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/test/resources/test-applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/controller/HomeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl$PostMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/model/Post.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/spring-persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/test-classes/test-applicationContext.xml" afterPath="" />
     </list>
     <ignored path="VendingMachine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -395,8 +510,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="254" />
+    <option name="x" value="76" />
+    <option name="y" value="67" />
     <option name="width" value="1908" />
     <option name="height" value="993" />
   </component>
@@ -1150,15 +1265,15 @@
       <updated>1473871666184</updated>
       <workItem from="1473871668734" duration="14076000" />
       <workItem from="1474039135224" duration="23058000" />
-      <workItem from="1474583310150" duration="37717000" />
+      <workItem from="1474583310150" duration="37760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74851000" />
+    <option name="totallyTimeSpent" value="74894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="254" width="1908" height="993" extended-state="0" />
+    <frame x="76" y="67" width="1908" height="993" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1167,7 +1282,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13826367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13826367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2508324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1175,7 +1290,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13558413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13558413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
