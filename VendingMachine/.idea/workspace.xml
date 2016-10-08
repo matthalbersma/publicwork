@@ -7,137 +7,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../DvdLibrarySpringMVCV2/target/test-classes/.netbeans_automatic_build" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../FlooringMaster/target/classes/.netbeans_automatic_build" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../FlooringMaster/target/test-classes/.netbeans_automatic_build" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/nb-configuration.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/nbproject/project.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/controller/HomeController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/controller/LogInController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/UserDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/dao/UserDaoDbImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Hashtags.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Post.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/Search.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/java/com/mycompany/teamdadcapstoneproject/model/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/resources/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/css/component.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/bpicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/fonts/bpicons/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/cbpAnimatedHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/cbpAnimatedHeader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/AnimatedHeader/js/modernizr.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/META-INF/context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/spring-security.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/css/teamDad.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.full.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/build/jquery.datetimepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/datetimepicker.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/doc.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.datetimepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/3.1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/screen/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/tests/input_in_container_fixed_to_bottom_of_viewport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/datetimepicker-master/tests/input_in_container_fixed_to_top_of_viewport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/animated.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/img/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/jquery-2.2.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/jquery-2.2.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDadAdmin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamDadMarketing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/js/teamdadcontent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/adminPost.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/editModalFragment.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/home.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/main/webapp/jsp/login.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/test/java/com/mycompany/teamdadcapstoneproject/dao/DaoInterfaceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/src/test/resources/test-applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/controller/HomeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl$PostMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/dao/DaoInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/com/mycompany/teamdadcapstoneproject/model/Post.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/classes/spring-persistence.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../TeamDadCapstoneProject/target/test-classes/test-applicationContext.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VendingMachine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -172,7 +42,7 @@
           <file leaf-file-name="itemList.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/itemList.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
+                <state relative-caret-position="330">
                   <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
@@ -184,14 +54,9 @@
           <file leaf-file-name="InputDollars.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/InputDollars.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
+                <state relative-caret-position="180">
                   <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#163#164#0" expanded="true" />
-                    <element signature="e#193#194#0" expanded="true" />
-                    <element signature="e#239#240#0" expanded="true" />
-                    <element signature="e#277#278#0" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -199,7 +64,7 @@
           <file leaf-file-name="vend.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/vend.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
+                <state relative-caret-position="767">
                   <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
                   <folding />
                 </state>
@@ -219,12 +84,9 @@
           <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/WebSecurityConfig.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
+                <state relative-caret-position="255">
                   <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#0#2020#0" expanded="true" />
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -234,10 +96,7 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="570">
                   <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#910#911#0" expanded="true" />
-                    <element signature="e#937#938#0" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -255,11 +114,9 @@
           <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/LoginController.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="474">
+                <state relative-caret-position="540">
                   <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -267,7 +124,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
+                <state relative-caret-position="150">
                   <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
                   <folding />
                 </state>
@@ -294,23 +151,9 @@
           <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Client.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
+                <state relative-caret-position="180">
                   <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#0#1567#0" expanded="false" />
-                    <element signature="e#779#780#0" expanded="false" />
-                    <element signature="e#810#811#0" expanded="false" />
-                    <element signature="e#917#918#0" expanded="false" />
-                    <element signature="e#957#958#0" expanded="false" />
-                    <element signature="e#1036#1037#0" expanded="false" />
-                    <element signature="e#1067#1068#0" expanded="false" />
-                    <element signature="e#1174#1175#0" expanded="false" />
-                    <element signature="e#1214#1215#0" expanded="false" />
-                    <element signature="e#1287#1288#0" expanded="false" />
-                    <element signature="e#1315#1316#0" expanded="false" />
-                    <element signature="e#1410#1411#0" expanded="false" />
-                    <element signature="e#1444#1445#0" expanded="false" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -318,7 +161,7 @@
           <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/UserRepository.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
+                <state relative-caret-position="165">
                   <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
                   <folding />
                 </state>
@@ -328,11 +171,9 @@
           <file leaf-file-name="AuthUserDetailsService.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/AuthUserDetailsService.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="735">
+                <state relative-caret-position="555">
                   <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -342,34 +183,7 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="750">
                   <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#10032#0" expanded="false" />
-                    <element signature="imports" expanded="false" />
-                    <element signature="e#2013#2027#0" expanded="false" />
-                    <element signature="e#3212#3213#0" expanded="false" />
-                    <element signature="e#3236#3237#0" expanded="false" />
-                    <element signature="e#3384#3385#0" expanded="false" />
-                    <element signature="e#3402#3403#0" expanded="false" />
-                    <element signature="e#3944#3945#0" expanded="false" />
-                    <element signature="e#3977#3978#0" expanded="false" />
-                    <element signature="e#4206#4207#0" expanded="false" />
-                    <element signature="e#4224#4225#0" expanded="false" />
-                    <element signature="e#4447#4448#0" expanded="false" />
-                    <element signature="e#4473#4474#0" expanded="false" />
-                    <element signature="e#4818#4819#0" expanded="false" />
-                    <element signature="e#4844#4845#0" expanded="false" />
-                    <element signature="e#5769#5770#0" expanded="false" />
-                    <element signature="e#5802#5803#0" expanded="false" />
-                    <element signature="e#5956#5957#0" expanded="false" />
-                    <element signature="e#6008#6009#0" expanded="false" />
-                    <element signature="e#6234#6235#0" expanded="false" />
-                    <element signature="e#6293#6294#0" expanded="false" />
-                    <element signature="e#6751#6759#0" expanded="false" />
-                    <element signature="e#7015#7029#0" expanded="false" />
-                    <element signature="e#9065#9079#0" expanded="false" />
-                    <element signature="e#9941#9942#0" expanded="false" />
-                    <element signature="e#10028#10029#0" expanded="false" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -377,7 +191,7 @@
           <file leaf-file-name="administrate.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/resources/templates/administrate.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="549">
+                <state relative-caret-position="615">
                   <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
                   <folding />
                 </state>
@@ -397,7 +211,7 @@
           <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/pom.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="534">
+                <state relative-caret-position="1050">
                   <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
                   <folding />
                 </state>
@@ -510,9 +324,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="67" />
-    <option name="width" value="1908" />
+    <option name="x" value="71" />
+    <option name="y" value="38" />
+    <option name="width" value="1680" />
     <option name="height" value="993" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -541,6 +355,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -731,8 +547,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1265,43 +1079,45 @@
       <updated>1473871666184</updated>
       <workItem from="1473871668734" duration="14076000" />
       <workItem from="1474039135224" duration="23058000" />
-      <workItem from="1474583310150" duration="37760000" />
+      <workItem from="1474583310150" duration="38917000" />
+      <workItem from="1475339869091" duration="379000" />
+      <workItem from="1475868711471" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74894000" />
+    <option name="totallyTimeSpent" value="76579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="67" width="1908" height="993" extended-state="0" />
+    <frame x="71" y="38" width="1680" height="993" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13826367" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2508324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14102565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13558413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13553114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1374,9 +1190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1384,10 +1197,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1395,10 +1205,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#2020#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1414,9 +1221,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1424,7 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1443,21 +1247,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#1567#0" expanded="false" />
-            <element signature="e#779#780#0" expanded="false" />
-            <element signature="e#810#811#0" expanded="false" />
-            <element signature="e#917#918#0" expanded="false" />
-            <element signature="e#957#958#0" expanded="false" />
-            <element signature="e#1036#1037#0" expanded="false" />
-            <element signature="e#1067#1068#0" expanded="false" />
-            <element signature="e#1174#1175#0" expanded="false" />
-            <element signature="e#1214#1215#0" expanded="false" />
-            <element signature="e#1287#1288#0" expanded="false" />
-            <element signature="e#1315#1316#0" expanded="false" />
-            <element signature="e#1410#1411#0" expanded="false" />
-            <element signature="e#1444#1445#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1473,9 +1263,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,34 +1271,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10032#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2013#2027#0" expanded="false" />
-            <element signature="e#3212#3213#0" expanded="false" />
-            <element signature="e#3236#3237#0" expanded="false" />
-            <element signature="e#3384#3385#0" expanded="false" />
-            <element signature="e#3402#3403#0" expanded="false" />
-            <element signature="e#3944#3945#0" expanded="false" />
-            <element signature="e#3977#3978#0" expanded="false" />
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4224#4225#0" expanded="false" />
-            <element signature="e#4447#4448#0" expanded="false" />
-            <element signature="e#4473#4474#0" expanded="false" />
-            <element signature="e#4818#4819#0" expanded="false" />
-            <element signature="e#4844#4845#0" expanded="false" />
-            <element signature="e#5769#5770#0" expanded="false" />
-            <element signature="e#5802#5803#0" expanded="false" />
-            <element signature="e#5956#5957#0" expanded="false" />
-            <element signature="e#6008#6009#0" expanded="false" />
-            <element signature="e#6234#6235#0" expanded="false" />
-            <element signature="e#6293#6294#0" expanded="false" />
-            <element signature="e#6751#6759#0" expanded="false" />
-            <element signature="e#7015#7029#0" expanded="false" />
-            <element signature="e#9065#9079#0" expanded="false" />
-            <element signature="e#9941#9942#0" expanded="false" />
-            <element signature="e#10028#10029#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1518,10 +1279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#585#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1529,9 +1286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1565,10 +1319,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1590,9 +1341,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1639,9 +1388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1649,9 +1395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1659,85 +1402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#585#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#1567#0" expanded="false" />
-            <element signature="e#779#780#0" expanded="false" />
-            <element signature="e#810#811#0" expanded="false" />
-            <element signature="e#917#918#0" expanded="false" />
-            <element signature="e#957#958#0" expanded="false" />
-            <element signature="e#1036#1037#0" expanded="false" />
-            <element signature="e#1067#1068#0" expanded="false" />
-            <element signature="e#1174#1175#0" expanded="false" />
-            <element signature="e#1214#1215#0" expanded="false" />
-            <element signature="e#1287#1288#0" expanded="false" />
-            <element signature="e#1315#1316#0" expanded="false" />
-            <element signature="e#1410#1411#0" expanded="false" />
-            <element signature="e#1444#1445#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.2.RELEASE/spring-data-commons-1.12.2.RELEASE-sources.jar!/org/springframework/data/mapping/PropertyPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10032#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2013#2027#0" expanded="false" />
-            <element signature="e#3212#3213#0" expanded="false" />
-            <element signature="e#3236#3237#0" expanded="false" />
-            <element signature="e#3384#3385#0" expanded="false" />
-            <element signature="e#3402#3403#0" expanded="false" />
-            <element signature="e#3944#3945#0" expanded="false" />
-            <element signature="e#3977#3978#0" expanded="false" />
-            <element signature="e#4206#4207#0" expanded="false" />
-            <element signature="e#4224#4225#0" expanded="false" />
-            <element signature="e#4447#4448#0" expanded="false" />
-            <element signature="e#4473#4474#0" expanded="false" />
-            <element signature="e#4818#4819#0" expanded="false" />
-            <element signature="e#4844#4845#0" expanded="false" />
-            <element signature="e#5769#5770#0" expanded="false" />
-            <element signature="e#5802#5803#0" expanded="false" />
-            <element signature="e#5956#5957#0" expanded="false" />
-            <element signature="e#6008#6009#0" expanded="false" />
-            <element signature="e#6234#6235#0" expanded="false" />
-            <element signature="e#6293#6294#0" expanded="false" />
-            <element signature="e#6751#6759#0" expanded="false" />
-            <element signature="e#7015#7029#0" expanded="false" />
-            <element signature="e#9065#9079#0" expanded="false" />
-            <element signature="e#9941#9942#0" expanded="false" />
-            <element signature="e#10028#10029#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/AuthUserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1745,6 +1409,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueArrayWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/InputDollars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/itemList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/vend.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/matthalbersma/VendingMachineSprintBootApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -1760,103 +1511,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Change.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueArrayWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/InputDollars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/matthalbersma/VendingMachineSprintBootApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/itemList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/Administrate.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/model/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="165">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/AuthUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.2.RELEASE/spring-data-commons-1.12.2.RELEASE-sources.jar!/org/springframework/data/mapping/PropertyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/administrate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
+        <state relative-caret-position="615">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
           <folding />
         </state>
@@ -1872,28 +1561,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
+        <state relative-caret-position="1050">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/matthalbersma/WebSecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/Administrate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
-            <element signature="e#0#2020#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#40#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/vend.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
