@@ -9,7 +9,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Sad Dad Dyskount Liquors</title>
+        <title>Sad Dad Tech Blog</title>
         <meta name="description" content="Blueprint: On-Scroll Animated Header" />
         <meta name="keywords" content="fixed header, animatied header, javascript, wed design, template, on scroll" />
         <meta name="author" content="Codrops" />
@@ -33,7 +33,7 @@
                         <ul class="dropdown-menu" id="dropMen">
                         </ul>
                     </div>
-                    <h1>sad dad dyskØunt liquors</h1>
+                    <h1>Sad Dad Tech Blog</h1>
                     <nav>
                         <a href="home"><h2 class="fa fa-home"></h2></a>
                         <sec:authorize access="hasRole('ROLE_ADMIN')">
